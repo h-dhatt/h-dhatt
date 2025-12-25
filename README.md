@@ -1,40 +1,54 @@
 # Hi, I'm Harleen Dhatt 👋
 
-I’m a student of Mathematics, Statistics, and Economics based in GTA, Canada, with a strong passion for data analytics, machine learning, and quantitative modeling.
+I’m an entry-level **Data Analyst** interested in turning messy data into clear,
+actionable insights.
+
+I focus on:
+- SQL data modeling and KPIs
+- Experimentation and basic statistics
+- Data cleaning and quality checks
+- Clear communication for non-technical stakeholders
 
 ---
 
-##  Focus Areas  
-- **Statistics & Econometrics**: OLS, causal inference (DiD), time series  
-- **Machine Learning**: Classification, forecasting, reinforcement learning  
-- **Quantitative Finance**: Portfolio optimization, simulations, GBM  
+## 📌 Featured Projects
+
+### 🔹 Revenue & Retention Analytics Capstone
+**SQL → BI → Python**
+- Built fact tables and KPIs in SQL
+- Analyzed conversion and cohort retention
+- Identified churn drivers and wrote executive recommendations  
+👉 Repo: https://github.com/h-dhatt/capstone-revenue-retention
 
 ---
 
-##  Highlighted Projects  
-| Project | Description |
-|---------|-------------|
-| **Portfolio Optimization** | Portfolio optimization using mean-variance, ML-based covariance, and backtesting |
-| **Causal Inference (DiD)** | Policy evaluation with Difference-in-Differences and fixed effects |
-| **Time Series Forecasting** | ARIMA, VAR, LSTM forecasting with rolling-window evaluation |
-| **Reinforcement Learning (Bandits)** | Exploration vs exploitation tradeoff using ε-Greedy, UCB, Thompson Sampling |
-| **Breast Cancer Classification** | Benchmarking classifiers with CSV, ROC-AUC, and interpretability |
-| **Diabetes OLS Analysis** | Full OLS pipeline: diagnostics, scaling, NA strategy, transparent reporting |
+### 🔹 A/B Test Experiment
+**Experiment design + statistics**
+- Designed control vs treatment experiment
+- Measured conversion lift and statistical significance
+- Interpreted results by user segment  
+👉 Repo: https://github.com/h-dhatt/experiment-ab-test
 
 ---
 
-##  Skills & Tools  
-**Languages:** Python · R · SQL  
-**Techniques:** Regression · Causal Inference · ML · RL · Time Series · Financial Modeling  
-**Tools:** scikit-learn · StatsModels · TensorFlow/Keras (or PyTorch) · pandas · matplotlib
+### 🔹 Data Cleaning & QA Pipeline
+**Operations / production thinking**
+- Cleaned messy real-world style data
+- Applied explicit cleaning rules
+- Validated outputs with quality checks  
+👉 Repo: https://github.com/h-dhatt/ops-cleaning-qa-pipeline
 
 ---
 
-##  Get in Touch  
-- Email: dhatth2@mcmaster.ca  
-- Portfolio: [[h-dhatt.github.io](https://h-dhatt.github.io/)](https://h-dhatt.github.io/harleen-dhatt-portfolio/)  
-- Looking for potential grad school collaborations and research projects.
+### 🔹 One-Page Insights Memo
+**Communication**
+- Summarized analysis into a one-page executive memo
+- Focused on decisions, not tools  
+👉 Repo: https://github.com/h-dhatt/insights-onepager-memo
 
 ---
 
-_Pinned repos above demonstrate my strongest work; explore “Repositories” for everything else. I'm always open to feedback and new opportunities!_
+## 🛠 Tools
+SQL · Python · pandas · Power BI / Tableau · Git · Excel
+
+📫 Feel free to reach out via LinkedIn.
