@@ -1,54 +1,49 @@
-# Hi, I'm Harleen Dhatt 👋
+## Hi, I’m Harleen
 
-I’m an entry-level **Data Analyst** interested in turning messy data into clear,
-actionable insights.
+I’m an entry-level data analyst based in the Greater Toronto Area.
 
-I focus on:
-- SQL data modeling and KPIs
-- Experimentation and basic statistics
-- Data cleaning and quality checks
-- Clear communication for non-technical stakeholders
+I’m interested in using data to understand real-world systems like transportation, public services, and urban mobility. My projects focus on **data cleaning, exploratory analysis, SQL, Python, and clear visualization**.
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-### 🔹 Revenue & Retention Analytics Capstone
-**SQL → BI → Python**
-- Built fact tables and KPIs in SQL
-- Analyzed conversion and cohort retention
-- Identified churn drivers and wrote executive recommendations  
-👉 Repo: https://github.com/h-dhatt/capstone-revenue-retention
+### Toronto KSI Traffic Collisions Analysis
+Analyzed Killed or Seriously Injured (KSI) traffic collisions in Toronto to identify hotspots, trends, and affected road user groups.  
+**Tools:** Python (pandas), Power BI  
+https://github.com/h-dhatt/toronto-ksi-collisions-analysis
 
 ---
 
-### 🔹 A/B Test Experiment
-**Experiment design + statistics**
-- Designed control vs treatment experiment
-- Measured conversion lift and statistical significance
-- Interpreted results by user segment  
-👉 Repo: https://github.com/h-dhatt/experiment-ab-test
+### TTC Delay Hotspots & Drivers
+Explored Toronto subway delay data to identify recurring delay locations, major causes, and time-based patterns.  
+**Tools:** SQL, Python, Power BI  
+https://github.com/h-dhatt/ttc-subway-delays-2024
 
 ---
 
-### 🔹 Data Cleaning & QA Pipeline
-**Operations / production thinking**
-- Cleaned messy real-world style data
-- Applied explicit cleaning rules
-- Validated outputs with quality checks  
-👉 Repo: https://github.com/h-dhatt/ops-cleaning-qa-pipeline
+### Bike Share Toronto Demand Forecasting
+Built time-series models to analyze and forecast Bike Share Toronto usage patterns and seasonality.  
+**Tools:** Python, statistics, time series analysis  
+https://github.com/h-dhatt/bike-share-toronto-demand-forecasting
 
 ---
 
-### 🔹 One-Page Insights Memo
-**Communication**
-- Summarized analysis into a one-page executive memo
-- Focused on decisions, not tools  
-👉 Repo: https://github.com/h-dhatt/insights-onepager-memo
+## Skills
+- Python (pandas, numpy, matplotlib)
+- SQL
+- Power BI
+- Data cleaning and exploratory analysis
+- Statistics and time series analysis
 
 ---
 
-## 🛠 Tools
-SQL · Python · pandas · Power BI / Tableau · Git · Excel
+## Education
+BSc in Mathematics & Statistics — McMaster University (2021–2026)
 
-📫 Feel free to reach out via LinkedIn.
+---
+
+## Contact
+- GitHub: https://github.com/h-dhatt
+- LinkedIn: https://www.linkedin.com/in/harleen-dhatt/
+- portfolio: https://h-dhatt.github.io/harleen-dhatt-portfolio/
